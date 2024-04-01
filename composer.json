@@ -1,5 +1,5 @@
 {
-    "name": "asad/testing",
+    "name": "asadjavedsemantic/testing",
     "description": "Notification agent to handle all kind of notification with pusher",
     "license": "MIT",
     "autoload": {
